@@ -1,1 +1,3 @@
 I wanted to see how fast I could make a functioning HTTP Server, so I made this during a less-than-interesting algorithms lecture.
+
+According to the commit logs, this took 9 minutes.
